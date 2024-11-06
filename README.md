@@ -6,10 +6,6 @@ Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e desenvolvimento de soft
 - 🎓 Técnico em Mecatrônica pela ETEC Rubens de Faria e Souza
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas (2º semestre)
 
-- **Projetos em Destaque:**
-  - **Sistema de Voluntariado:** Uma plataforma em Java e MySQL que conecta pessoas e ONGs para ações sociais.
-  - **API de Cadastro:** Um projeto em desenvolvimento para aprender e aplicar Spring Boot, voltado para criação de APIs RESTful.
-
 ### 🌱 O que estou aprendendo atualmente
 - Implementação de APIs com Spring Boot
 
