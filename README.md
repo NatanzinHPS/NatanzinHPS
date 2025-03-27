@@ -7,7 +7,7 @@ Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e desenvolvimento de soft
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)
 
 ### 🌱 O que estou aprendendo atualmente
-- Implementação de APIs com Spring Boot
+- Implementação de APIs com Spring Boot/Angular
 
 
 ###
