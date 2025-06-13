@@ -7,8 +7,7 @@ Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e desenvolvimento de soft
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)
 
 ### 🌱 O que estou aprendendo atualmente
-- React para projeto da faculdade
-- Spring WebFlux e mongodb
+- React e TypeScript
 
 
 ###
