@@ -4,7 +4,7 @@ Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e desenvolvimento de soft
 
 ### 🎓 Sobre mim
 - 🎓 Técnico em Mecatrônica pela ETEC Rubens de Faria e Souza
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre)
 
 ### 🌱 O que estou aprendendo atualmente
 - React e TypeScript
