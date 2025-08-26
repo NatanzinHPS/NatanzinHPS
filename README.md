@@ -7,7 +7,7 @@ Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e desenvolvimento de soft
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre)
 
 ### 🌱 O que estou aprendendo atualmente
-- React e TypeScript
+- Angular e UI/UX
 
 
 ###
